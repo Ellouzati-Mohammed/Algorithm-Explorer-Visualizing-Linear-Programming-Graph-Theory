@@ -8,7 +8,7 @@ def northwest_corner(supply, demand, costs=None):
 
         m = len(supply)
         n = len(demand)
-        alloc = np.zeros((m, n))
+        alloc = np.zeros((m, n))#matrice
         s = np.array(supply, dtype=float)
         d = np.array(demand, dtype=float)
 
