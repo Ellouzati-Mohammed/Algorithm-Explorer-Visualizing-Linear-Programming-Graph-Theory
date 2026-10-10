@@ -9,17 +9,17 @@ The application provides an educational environment where users can explore algo
 
 ### Home Page
 
-![Algorithm Explorer - Home Page](doc/1.png)
+![Algorithm Explorer - Home Page](doc/images/1.png)
 
 ### Algorithm Visualizations
 
 | Visualization 1 | Visualization 2 |
 |---|---|
-| ![Algorithm Visualization 1](doc/2.png) | ![Algorithm Visualization 2](doc/3.png) |
+| ![Algorithm Visualization 1](doc/images/2.png) | ![Algorithm Visualization 2](doc/images/3.png) |
 
 | Visualization 3 | Visualization 4 |
 |---|---|
-| ![Algorithm Visualization 3](doc/4.png) | ![Algorithm Visualization 4](doc/5.png) |
+| ![Algorithm Visualization 3](doc/images/4.png) | ![Algorithm Visualization 4](doc/images/5.png) |
 
 ## Features
 
